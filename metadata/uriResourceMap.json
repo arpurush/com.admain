@@ -1,0 +1,11 @@
+{
+    "lastStart" : {
+        "resource" : "resources/js/getLastStart.js",
+        "method" : "get",
+        "attributes":[
+            {
+            
+            }
+        ]
+    }
+}
