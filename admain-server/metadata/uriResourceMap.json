@@ -1,6 +1,6 @@
 {
     "lastStart" : {
-        "resource" : "resources/js/getLastStart.js",
+        "controller" : "getLastStart.js",
         "method" : "get",
         "attributes":[
             {
